@@ -1,0 +1,19 @@
+@import "tailwindcss";
+@import "uniwind";
+
+/* Palette read from the shipped saddlebronc.pro stylesheet, so the app
+   matches the site a user just came from. */
+@theme {
+  --color-background: #0a0e1a;
+  --color-surface: #121826;
+  --color-card: #182031;
+  --color-border: #28324a;
+  --color-text: #d5dcea;
+  --color-muted: #9aa8bf;
+  --color-accent: #c9a227;
+  --color-accentAlt: #7d8db0;
+  --color-cream: #f0ead8;
+  --color-success: #4ba36b;
+  --color-warning: #d99a2b;
+  --color-danger: #c8503f;
+}
