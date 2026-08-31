@@ -3,3 +3,8 @@ export { EventsScreen } from './Events';
 export { DrawScreen } from './Draw';
 export { CompeteScreen } from './Compete';
 export { ProfileScreen } from './Profile';
+export { SignInScreen } from './SignIn';
+export { SignUpScreen } from './SignUp';
+export { ForgotPasswordScreen } from './ForgotPassword';
+export { RodeoDetailScreen } from './RodeoDetail';
+export { AnalyzeScreen } from './Analyze';
