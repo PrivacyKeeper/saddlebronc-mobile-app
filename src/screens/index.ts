@@ -11,3 +11,4 @@ export { AnalyzeScreen } from './Analyze';
 export { ResultsScreen } from './Results';
 export { WaiverScreen } from './Waiver';
 export { NoticesScreen } from './Notices';
+export { RulesScreen } from './Rules';
